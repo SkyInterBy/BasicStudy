@@ -15,5 +15,4 @@
     * Define
     * Enum
     * Random
-
 10. Функции
