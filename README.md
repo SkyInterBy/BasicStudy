@@ -18,3 +18,8 @@
 10. Функции
 11. Игра крестики нолики
 12. Аргументы функции
+
+
+
+
+[C++ #2] (https://www.youtube.com/view_play_list?p=30625C8F5ADD5BB4&sort_field=original&page=1)
